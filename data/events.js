@@ -1,0 +1,21 @@
+window.UTEBO_EVENTS = [
+ {id:'e5',date:'2026-07-23',start:'19:00',end:'21:00',title:'Hora accesible en la feria',location:'Zona de ferias',category:'accesibilidad',audience:['accesible','familias','ninos'],desc:'Atracciones sin luces, música ni sirenas.',status:'scheduled'},
+ {id:'e6',date:'2026-07-23',start:'19:30',title:'Pregón y chupinazo',location:'Plaza de España',category:'tradicion',audience:['familias','jovenes','mayores'],status:'scheduled'},
+ {id:'e8',date:'2026-07-23',start:'19:50',title:'Concurso y desfile de carrozas y comparsas',location:'Plaza España → Avenida Zaragoza',category:'tradicion',audience:['familias','ninos','jovenes','mayores'],status:'scheduled'},
+ {id:'e13',date:'2026-07-24',start:'11:00',end:'14:00',title:'Espacio Bambini Tour',location:'Parque Las Fuentes',category:'infantil',audience:['ninos','familias'],status:'scheduled'},
+ {id:'e17',date:'2026-07-24',start:'17:00',title:'Doble tobogán deslizante con piscina',location:'Plaza Constitución',category:'infantil',audience:['ninos','familias','jovenes'],status:'scheduled'},
+ {id:'e21',date:'2026-07-24',start:'20:00',title:'Mini Disco y maquillaje fiestero',location:'Plaza Santa Ana',category:'infantil',audience:['ninos','familias'],status:'scheduled'},
+ {id:'e24',date:'2026-07-24',start:'23:00',title:'I Love Disco: Festival de los 80 y 90',location:'Avenida Navarra',category:'musica',audience:['jovenes','adultos'],status:'scheduled'},
+ {id:'e31',date:'2026-07-25',start:'11:30',title:'Pasacalles de gigantes y cabezudos',location:'Calles de Utebo',category:'tradicion',audience:['ninos','familias','mayores'],status:'scheduled'},
+ {id:'e37',date:'2026-07-25',start:'18:30',title:'Anima Prix: gincana infantil',location:'Huerto del Cura',category:'infantil',audience:['ninos','familias'],status:'scheduled'},
+ {id:'e42',date:'2026-07-25',start:'20:00',title:'Comparsa de cabezudos con charanga',location:'Casco Viejo → Ayuntamiento',category:'tradicion',audience:['ninos','familias','mayores'],status:'scheduled'},
+ {id:'e49',date:'2026-07-26',start:'08:00',end:'09:00',title:'Becerras',location:'Plaza de toros, Parking Avda. Navarra',category:'taurino',audience:['adultos'],status:'scheduled'},
+ {id:'e59',date:'2026-07-26',start:'17:30',title:'Tarde del mayor: café-concierto',location:'Pabellón Las Fuentes',category:'musica',audience:['mayores'],status:'scheduled'},
+ {id:'e61',date:'2026-07-26',start:'19:00',title:'Títeres “La Princesa o no” y merienda infantil',location:'Plaza Constitución',category:'infantil',audience:['ninos','familias'],status:'scheduled'},
+ {id:'e65',date:'2026-07-26',start:'23:00',title:'Fuegos artificiales',location:'Parque Los Prados',category:'espectaculo',audience:['familias','jovenes','mayores'],status:'scheduled'},
+ {id:'e71',date:'2026-07-27',start:'11:30',end:'13:30',title:'Parque infantil de hinchables y camas elásticas',location:'Parque Las Fuentes',category:'infantil',audience:['ninos','familias'],status:'scheduled'},
+ {id:'e74',date:'2026-07-27',start:'19:00',end:'21:00',title:'Hora accesible en la feria',location:'Zona de ferias',category:'accesibilidad',audience:['accesible','familias','ninos'],desc:'Atracciones sin luces, música ni sirenas.',status:'scheduled'},
+ {id:'e75',date:'2026-07-27',start:'19:30',title:'Comparsa de cabezudos con charanga',location:'Ayuntamiento → Casco Viejo',category:'tradicion',audience:['ninos','familias','mayores'],status:'scheduled'},
+ {id:'e79',date:'2026-07-27',start:'23:30',title:'Traca fin de fiestas y Orquesta La Principal',location:'Parque Santa Ana',category:'espectaculo',audience:['familias','jovenes','mayores'],status:'scheduled'},
+ {id:'e80',date:'2026-07-28',start:'00:00',title:'Día del niño en el recinto ferial',location:'Recinto ferial',category:'infantil',audience:['ninos','familias'],desc:'Precio especial de 2 €. El programa no indica un horario concreto.',status:'scheduled',timeTbd:true}
+];
