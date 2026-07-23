@@ -1,0 +1,10 @@
+{
+  "name": "utebo-en-fiestas",
+  "version": "2.0.0",
+  "private": true,
+  "description": "Guía digital accesible de las Fiestas de Santa Ana 2026 de Utebo",
+  "scripts": {
+    "test": "node tests/validate.mjs"
+  },
+  "license": "UNLICENSED"
+}
